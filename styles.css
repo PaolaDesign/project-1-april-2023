@@ -1,0 +1,16 @@
+h1 {
+    color: blanchedalmond;
+    background-color: blueviolet;
+    text-align: center;
+    text-transform: capitalize;
+}
+p  {
+    color: black;
+    background-color: beige;
+    text-transform: uppercase;
+    text-align: center;
+}
+a {
+    color: blue;
+    text-underline-offset: 1px;
+}
